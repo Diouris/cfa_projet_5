@@ -12,6 +12,7 @@ Je suis embauchée chez Laplace Immo, un réseau national d’agences immobiliè
 
 ## 🎯 Objectif Business
 Créer un modèle pour mieux prévoir le prix de vente des biens immobiliers afin de mieux se différencier de la concurrence.
+
 ---
 ## 🛠️ Outils & Compétences mobilisés
 
