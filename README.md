@@ -1,7 +1,7 @@
 # cfa_projet_5
-# 🎯 Créer et utiliser une base de données immobilière avec SQL
+# Créer et utiliser une base de données immobilière avec SQL
 
-## 📌 Contexte & Scénario
+## Contexte & Scénario
 Je suis embauchée chez Laplace Immo, un réseau national d’agences immobilières. Le directeur général est sensible depuis quelque temps à l’importance des données et il pense que l’agence doit se démarquer de la concurrence en créant un modèle pour mieux prévoir le prix de vente des biens immobiliers. 
 
 **Entreprise fictive :** Laplace Immo
@@ -10,11 +10,11 @@ Je suis embauchée chez Laplace Immo, un réseau national d’agences immobiliè
 
 ---
 
-## 🎯 Objectif Business
+## Objectif Business
 Créer un modèle pour mieux prévoir le prix de vente des biens immobiliers afin de mieux se différencier de la concurrence.
 
 ---
-## 🛠️ Outils & Compétences mobilisés
+## Outils & Compétences mobilisés
 
 ### Outils utilisés
 | Outil | Usage |
@@ -34,7 +34,7 @@ Créer un modèle pour mieux prévoir le prix de vente des biens immobiliers afi
   - Comprendre un besoin utilisateur
   - Transformer un contexte client flou en objectif analytique précis
 ---
-## 📦 Livrables produits
+## Livrables produits
 - [x] Présentation PowerPoint
 - [x] Schéma relationnel
 - [x] Dictionnaire de données
